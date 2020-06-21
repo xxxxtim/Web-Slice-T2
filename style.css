@@ -1,0 +1,205 @@
+/* * {
+    outline: red 1px solid;
+} */
+
+.header__background {
+    background-color: #535151;
+    margin: 0;
+    text-align: center;
+}
+.header__container {
+    width: 1345px;
+    margin: 0 auto;
+    display: inline-block;
+    padding-top: 54px;
+    padding-bottom: 54px;
+}
+.header__logo {
+    display: inline-block;
+    color: #d2d2d2;
+    font-size: 28px;
+    font-family: "Red Hat Display", sans-serif;
+    font-weight: bold;
+}
+.header__link {
+    text-decoration: none;
+    color: #d3d3d3;
+    font-size: 22px;
+    font-family: "Red Hat Display", sans-serif;
+    margin: 0 45px;
+}
+nav {
+    /* display: inline-block;
+    width:1345px;
+    margin: 0 auto; */
+    display: inline-block;
+    padding-top: 54px;
+    padding-bottom: 54px;
+}
+.header__image {
+    vertical-align: middle;
+    margin: 0 45px;
+}
+
+.articletop__imagegirl {
+    background-image: url("cover.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 850px;
+}
+.articletop__content {
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgba(255, 255, 255, 0.4);
+    top: 40%;
+    position: relative;
+}
+h1 {
+    font-size: 75px;
+    font-weight: bold;
+    text-align: center;
+    color: #313233;
+    margin: 0;
+}
+.articletop__button {
+    min-width: 285px;
+    min-height: 55px;
+    background-color: #303132;
+    border: 0;
+    cursor: pointer;
+    font-size: 25px;
+    color: #d3d3d3;
+    font-family: "Red Hat Display", sans-serif;
+    margin: 25px 258px;
+}
+.articlemiddle {
+    background-color: #e3e3e3;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.articlemiddle__text {
+    font-size: 16px;
+    font-family: "Raleway", sans-serif;
+    letter-spacing: 7px;
+    color: #515151;
+}
+.articlebottom {
+    margin: 115px auto;
+}
+h2 {
+    font-size: 45px;
+    font-weight: bold;
+    letter-spacing: 20px;
+    text-align: center;
+}
+.articlebottom__dash {
+    font-size: 50px;
+    color: #595a5a;
+    text-align: center;
+}
+h3 {
+    font-size: 25px;
+    color: #595a5a;
+    letter-spacing: 15px;
+    text-align: center;
+    font-family: "Red Hat Display", sans-serif;
+}
+.articlebottom__image__container {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    padding-top: 60px;
+}
+.articlebottom__image {
+    /* width: 15%; */
+}
+.footer__background {
+    background-color: #535151;
+}
+.footer__upcontainer {
+    margin: 0 auto;
+    max-width: 1000px;
+    display: block;
+    padding-top: 100px;
+}
+.footer__left__content {
+    display: inline-block;
+    margin-left: 60px;
+}
+.footer__title {
+    font-size: 18px;
+    color: #d2d2d2;
+    font-family: "Red Hat Display", sans-serif;
+    display: block;
+    /* text-align: center; */
+}
+i {
+    color: white;
+    font-size: 30px;
+    display: inline-block;
+}
+.footer__link {
+    display: inline-block;
+    margin: 10px;
+}
+.footer__middle__content {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 105px;
+}
+.footer__inputbox {
+    background-color: #535151;
+    width: 260px;
+    height: 40px;
+    border: 2px solid #f1f1f1;
+    font-size: 17px;
+    margin-top: 10px;
+}
+.footer__button {
+    display: block;
+    padding: 5px 21px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    margin-left: 135px;
+    font-size: 18px;
+    color: #3d3d3e;
+    font-family: "Red Hat Display", sans-serif;
+}
+.footer__right_content {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 125px;
+}
+.footer__right__telephone {
+    font-size: 17px;
+    font-family: "Red Hat Display", sans-serif;
+    color: #d2d2d2;
+    font-weight: bold;
+    margin-top: 10px;
+    display: block;
+    margin-left: 25px;
+}
+.footer__right__email {
+    display: block;
+    font-size: 17px;
+    font-family: "Red Hat Display", sans-serif;
+    color: #d2d2d2;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.footer__down__container {
+    margin: 0 auto;
+    max-width: 1000px;
+    display: block;
+    padding-top: 100px;
+}
+.footer__down__content {
+    font-size: 20px;
+    color: #d2d2d2;
+    font-family: "Red Hat Display", sans-serif;
+    display: block;
+    text-align: center;
+    padding-bottom: 50px;
+}
