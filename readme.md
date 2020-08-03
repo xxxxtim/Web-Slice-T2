@@ -7,6 +7,4 @@
 * 絕對定位以及相對定位
 * 基本codeReview流程
 ## 設計搞如下：
-:::spoiler
 ![設計搞](https://i.imgur.com/lOy1e2r.jpg)
-:::
